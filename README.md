@@ -6,7 +6,8 @@ This is the official implementation of our **Pattern Recognition(PR)** 2025 pape
 [[Project Page]](https://yutingli0606.github.io/HTR-VT/)
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324007180)
 [[arXiv]](https://arxiv.org/pdf/2409.08573) 
-[[Google Drive]](https://drive.google.com/drive/folders/1mGX9Dk7RBY5BKbqHnxwsHtCnX-SuH363?usp=sharing)
+[[Datasets]](https://drive.google.com/drive/folders/1lC54B_rz3s6xj3b-lEV7boYQ_eCEqci6?usp=sharing)
+[[Checkpoints]](https://drive.google.com/drive/folders/1mGX9Dk7RBY5BKbqHnxwsHtCnX-SuH363?usp=sharing)
 
 
 ## Table of Content
