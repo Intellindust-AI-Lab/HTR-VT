@@ -34,7 +34,7 @@ This is the official implementation of our **Pattern Recognition(PR)** 2025 pape
 
 Our model can be learnt in a **single GPU RTX-4090 24G**
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate htr
 ```
 
